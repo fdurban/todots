@@ -1,9 +1,5 @@
-function App (): JSX.Element {
-  return (
-    <>
-      <h1>NOOOOOOOOOOOOOOOOOOO</h1>
-    </>
-  )
+function App() {
+  return <h1>Holla react</h1>
 }
 
 export default App
